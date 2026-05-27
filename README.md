@@ -9,7 +9,7 @@ Guitarrista profissional e professor de música. Comunicação, didática e trab
 - **AlertaMed** — aplicativo Flutter voltado à adesão medicamentosa e acompanhamento de tratamento contínuo.
 - **ClassShare** — aplicativo Flutter com SQLite para organização de conteúdos acadêmicos por disciplina.
 
-O repositório principal reúne estudos técnicos em Python, automação CLI e experimentos com machine learning.
+Estudos técnicos em Python, automação CLI e desenvolvimento com Flutter.
 
 ## Contato
 
