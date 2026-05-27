@@ -1,24 +1,11 @@
-# Fábio Alcântara — Portfólio e Estudos em Tecnologia
+Fábio da Rocha e Silva Alcântara
+Estudante de Análise e Desenvolvimento de Sistemas na FMU, atualmente no 4º semestre. Foco atual em Python e desenvolvimento mobile com Flutter. Em preparação para a certificação LPI Linux Essentials, com exame marcado para junho.
+Guitarrista profissional e professor de música. Comunicação, didática e trabalho em equipe já estão no meu dia a dia.
+Projetos
 
-### Sobre mim
-Minha trajetória profissional está ligada à música e à educação como instrumentista e educador. Essa experiência desenvolveu disciplina e pensamento analítico, que hoje também aplico no desenvolvimento de sistemas e nos estudos de infraestrutura e Linux.
+AlertaMed — aplicativo Flutter voltado à adesão medicamentosa e acompanhamento de tratamento contínuo.
+ClassShare — aplicativo Flutter com SQLite para organização de conteúdos acadêmicos por disciplina.
 
-### Foco Técnico e Aprendizado
-Este repositório centraliza códigos e alguns exercícios direcionados desenvolvidos ao longo do meu processo de aprendizado, com foco atual em:
-
-- Python: Desenvolvimento de lógica e fundamentos através do curso "Programação com Python - do Zero ao Avançado" (Fábio dos Reis - Bóson Treinamentos). Aplicação prática em disciplinas da graduação como Estrutura de Dados, Pesquisa, Ordenação e Técnicas de Armazenamento (POTA) e Técnicas de Machine Learning. Scripts de automação em breve.
-- Linux & Infraestrutura: Estudos técnicos de administração de sistemas e linha de comando (CLI).
-- Certificação: Em preparação ativa para a LPI Linux Essentials (Exame próximo).
-
-Nota: O repositório é atualizado regularmente com novos projetos e estudos. No final deste semestre, incluirei projetos em Dart & Flutter.
-
-### Objetivos
-- Consolidar o domínio em Python e Administração Linux.
-- Desenvolver projetos práticos de automação e infraestrutura.
-- Conquistar uma oportunidade de estágio para aplicar meus conhecimentos e evoluir profissionalmente.
-- Preparar-me para as demandas reais do mercado de tecnologia.
-
-### Contato
-Para propostas de estágio ou troca de conhecimentos, por favor envie um e-mail para: fabioalcantara.br@gmail.com
-
-Agradeço sua visita e interesse!
+O repositório principal reúne estudos técnicos em Python, automação CLI e experimentos com machine learning.
+Contato
+fabioalcantara.br@gmail.com · LinkedIn
