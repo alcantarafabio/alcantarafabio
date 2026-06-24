@@ -1,6 +1,6 @@
 # Fábio da Rocha e Silva Alcântara
 
-Estudante de Análise e Desenvolvimento de Sistemas na FMU, atualmente no último semestre. Foco atual em dados e automação — Shell Script, Python e SQL. Em preparação para a certificação LPI Linux Essentials, com exame previsto para julho de 2026.
+Estudante de Análise e Desenvolvimento de Sistemas na FMU, atualmente no 5º semestre. Foco atual em dados e automação — Shell Script, Python e SQL. Em preparação para a certificação LPI Linux Essentials, com exame previsto para julho de 2026.
 
 Guitarrista profissional e professor de música. Comunicação, didática e trabalho em equipe já estão no meu dia a dia.
 
